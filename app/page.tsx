@@ -15,7 +15,7 @@ export default function Home() {
           data-testid="week-0-line"
           className="bg-secondary text-secondary-foreground rounded-lg px-4 py-2"
         >
-          Week 0 check-in: Hi, I'm Manuel and I'm excited to build with AI.
+          Week 0 check-in: Hi, I&apos;m Manuel and I&apos;m excited to build with AI.
         </p>
       </main>
       <SiteFooter />
